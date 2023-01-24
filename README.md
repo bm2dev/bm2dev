@@ -22,3 +22,4 @@ Trabalho sempre buscando ajudar naquilo que sei e aprender com os que sabem mais
 # 📫 Como me contactar
 
 Email: gabriel.bil8@gmail.com.
+LinkedIn: https://www.linkedin.com/in/gabriel-lima-0ba2481ab/
