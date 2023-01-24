@@ -21,4 +21,4 @@ Trabalho sempre buscando ajudar naquilo que sei e aprender com os que sabem mais
 
 # 📫 Como me contactar
 
-Email: gabriel.bil8@gemail.com.
+Email: gabriel.bil8@gmail.com.
