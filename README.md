@@ -4,7 +4,7 @@ Nasci em 2001 desenvolvo software desde 2021. Comecei a desenvolver em React e l
 
 Alguns projetos que já trabalhei ou ainda estou trabalhando:
 * Frontend - Sistema Operadora Virtual 
-* * Um SGM para o gerenciamento de Operadoras Virtuais.
+* * Um SGM para o gerenciamento de Operadoras Virtuais. Que hoje conta com mais de 100 páginas com diferentes funcionalidades.
 * Frontend - App "Infiniti - Operadora Virtual"
 * * Desenvolvi o código fonte que é utilizado nele e em outros apps Operadora Virtual.
 * Frontend - Simulador
