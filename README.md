@@ -12,7 +12,7 @@ Alguns projetos que já trabalhei ou ainda estou trabalhando:
 
 Estou constantemente atualizando e melhorando os projetos que estão em andamento conforme vou me desenvolvendo mais como programador, refatorando quando nescessário e tornando o código o mais limpo e performático possível, tornando. Por isso o uso do Typescript nos projetos em que trabalhei no Frontend, pois com ele é possível evitar muitos e muitos bugs antes mesmo de rodar o código, e também criando uma documentação integrada com o intelisense do VS Code.
 
-# 👀 Meus interesses
+# 👀 Meus conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="bil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
